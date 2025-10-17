@@ -1,0 +1,10 @@
+.env
+.env.local
+*.env
+backend/.env
+__pycache__/
+*.py[cod]
+venv/
+.vscode/
+*.log
+test.db
